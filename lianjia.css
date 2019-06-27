@@ -1,0 +1,26 @@
+/*重置样式*/
+body{
+    margin: 0;
+}
+ul,h1,h2,h3{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.wrapper{
+    width:1200px;
+    margin:0 auto;
+    background-color: #cccccc;
+}
+/*快捷导航*/

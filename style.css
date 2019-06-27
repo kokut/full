@@ -1,0 +1,32 @@
+div{
+    color: red;
+    font-size: 20px;
+}
+
+.left{
+    color: red;
+    font-size: 40px;
+}
+
+#t2{
+    border: 1px solid #ccc;
+}
+
+.header li{
+
+    color: red;
+}
+
+.header>ul{
+border: 1px solid #ccc;
+}
+    
+.header>ul>li:hover
+{
+background-color: pink;
+
+}
+
+ul::after{
+    content: "hello"
+}
